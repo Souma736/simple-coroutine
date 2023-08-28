@@ -1,7 +1,7 @@
 /**
  * @file coroutine.h
  * @author souma
- * @brief 多线程无栈式协程池，请不要用-O0编译否则会产生coredump
+ * @brief 多线程有栈式协程池，请不要用-O0编译否则会产生coredump
  * @version 0.1
  * @date 2023-06-06
  * 
